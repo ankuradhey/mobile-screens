@@ -24,5 +24,10 @@ module.exports = {
   },
   plugins: [new HtmlWebpackPlugin({
     template: 'src/dialerpad.html'
-  })]
+  }),
+  new HtmlWebpackPlugin({
+    filename: 'sms.html',
+    template: 'src/sms.html'
+  })
+ ]
 };
