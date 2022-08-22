@@ -28,6 +28,10 @@ module.exports = {
   new HtmlWebpackPlugin({
     filename: 'sms.html',
     template: 'src/sms.html'
+  }),
+  new HtmlWebpackPlugin({
+    filename: 'sidebar.html',
+    template: 'src/sidebar.html'
   })
  ]
 };
