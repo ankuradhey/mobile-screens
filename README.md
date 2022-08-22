@@ -11,3 +11,7 @@
 
 ## SMS screen
 <img width="630" alt="image" src="https://user-images.githubusercontent.com/9452047/185807438-0a04ba90-86c0-4f79-95aa-52f563d58faf.png">
+
+## Sidebar
+<img width="630" alt="image" src="https://user-images.githubusercontent.com/9452047/185817703-c8e3606c-427f-41cb-9b7f-922f01cb76a4.png">
+
